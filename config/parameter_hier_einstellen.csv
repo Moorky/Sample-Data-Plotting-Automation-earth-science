@@ -1,0 +1,962 @@
+,0,1
+0,Depth [m],Depth [m]
+1,Depth [m],Rock type
+2,Depth [m],Dissolution degree
+3,Depth [m],Mean hardness [HLD]
+4,Depth [m],Mean pulse velocity [m/s]
+5,Depth [m],VP [m/s]
+6,Depth [m],Vs [m/s]
+7,Depth [m],E-Module [GPa]
+8,Depth [m],Poisson ratio
+9,Depth [m],Porosity [%]
+10,Depth [m],Density [g/cm3]
+11,Depth [m],Permeability [kkl md]
+12,Depth [m],Mg(CO3) [%]
+13,Depth [m],Ca(CO3) [%]
+14,Depth [m],Mn(CO3) [%]
+15,Depth [m],Fe(CO3) [%]
+16,Depth [m],Mg [%]
+17,Depth [m],Ca [%]
+18,Depth [m],Mg_Ca
+19,Depth [m],Ca _ Mg
+20,Depth [m],Sr [%]
+21,Depth [m],Dolomite total [%]
+22,Depth [m],Calcite total [%]
+23,Depth [m],Foraminifera [%]
+24,Depth [m],Goethite [%]
+25,Depth [m],Intergranular porosity [%]
+26,Depth [m],Intragranular porosity [%]
+27,Depth [m],Fracture Porosity [%]
+28,Depth [m],Secondary breakout porosity [%]
+29,Depth [m],Dol tot _ Cal tot
+30,Depth [m],Cal tot _ Dol tot
+31,Rock type,Depth [m]
+32,Rock type,Rock type
+33,Rock type,Dissolution degree
+34,Rock type,Mean hardness [HLD]
+35,Rock type,Mean pulse velocity [m/s]
+36,Rock type,VP [m/s]
+37,Rock type,Vs [m/s]
+38,Rock type,E-Module [GPa]
+39,Rock type,Poisson ratio
+40,Rock type,Porosity [%]
+41,Rock type,Density [g/cm3]
+42,Rock type,Permeability [kkl md]
+43,Rock type,Mg(CO3) [%]
+44,Rock type,Ca(CO3) [%]
+45,Rock type,Mn(CO3) [%]
+46,Rock type,Fe(CO3) [%]
+47,Rock type,Mg [%]
+48,Rock type,Ca [%]
+49,Rock type,Mg_Ca
+50,Rock type,Ca _ Mg
+51,Rock type,Sr [%]
+52,Rock type,Dolomite total [%]
+53,Rock type,Calcite total [%]
+54,Rock type,Foraminifera [%]
+55,Rock type,Goethite [%]
+56,Rock type,Intergranular porosity [%]
+57,Rock type,Intragranular porosity [%]
+58,Rock type,Fracture Porosity [%]
+59,Rock type,Secondary breakout porosity [%]
+60,Rock type,Dol tot _ Cal tot
+61,Rock type,Cal tot _ Dol tot
+62,Dissolution degree,Depth [m]
+63,Dissolution degree,Rock type
+64,Dissolution degree,Dissolution degree
+65,Dissolution degree,Mean hardness [HLD]
+66,Dissolution degree,Mean pulse velocity [m/s]
+67,Dissolution degree,VP [m/s]
+68,Dissolution degree,Vs [m/s]
+69,Dissolution degree,E-Module [GPa]
+70,Dissolution degree,Poisson ratio
+71,Dissolution degree,Porosity [%]
+72,Dissolution degree,Density [g/cm3]
+73,Dissolution degree,Permeability [kkl md]
+74,Dissolution degree,Mg(CO3) [%]
+75,Dissolution degree,Ca(CO3) [%]
+76,Dissolution degree,Mn(CO3) [%]
+77,Dissolution degree,Fe(CO3) [%]
+78,Dissolution degree,Mg [%]
+79,Dissolution degree,Ca [%]
+80,Dissolution degree,Mg_Ca
+81,Dissolution degree,Ca _ Mg
+82,Dissolution degree,Sr [%]
+83,Dissolution degree,Dolomite total [%]
+84,Dissolution degree,Calcite total [%]
+85,Dissolution degree,Foraminifera [%]
+86,Dissolution degree,Goethite [%]
+87,Dissolution degree,Intergranular porosity [%]
+88,Dissolution degree,Intragranular porosity [%]
+89,Dissolution degree,Fracture Porosity [%]
+90,Dissolution degree,Secondary breakout porosity [%]
+91,Dissolution degree,Dol tot _ Cal tot
+92,Dissolution degree,Cal tot _ Dol tot
+93,Mean hardness [HLD],Depth [m]
+94,Mean hardness [HLD],Rock type
+95,Mean hardness [HLD],Dissolution degree
+96,Mean hardness [HLD],Mean hardness [HLD]
+97,Mean hardness [HLD],Mean pulse velocity [m/s]
+98,Mean hardness [HLD],VP [m/s]
+99,Mean hardness [HLD],Vs [m/s]
+100,Mean hardness [HLD],E-Module [GPa]
+101,Mean hardness [HLD],Poisson ratio
+102,Mean hardness [HLD],Porosity [%]
+103,Mean hardness [HLD],Density [g/cm3]
+104,Mean hardness [HLD],Permeability [kkl md]
+105,Mean hardness [HLD],Mg(CO3) [%]
+106,Mean hardness [HLD],Ca(CO3) [%]
+107,Mean hardness [HLD],Mn(CO3) [%]
+108,Mean hardness [HLD],Fe(CO3) [%]
+109,Mean hardness [HLD],Mg [%]
+110,Mean hardness [HLD],Ca [%]
+111,Mean hardness [HLD],Mg_Ca
+112,Mean hardness [HLD],Ca _ Mg
+113,Mean hardness [HLD],Sr [%]
+114,Mean hardness [HLD],Dolomite total [%]
+115,Mean hardness [HLD],Calcite total [%]
+116,Mean hardness [HLD],Foraminifera [%]
+117,Mean hardness [HLD],Goethite [%]
+118,Mean hardness [HLD],Intergranular porosity [%]
+119,Mean hardness [HLD],Intragranular porosity [%]
+120,Mean hardness [HLD],Fracture Porosity [%]
+121,Mean hardness [HLD],Secondary breakout porosity [%]
+122,Mean hardness [HLD],Dol tot _ Cal tot
+123,Mean hardness [HLD],Cal tot _ Dol tot
+124,Mean pulse velocity [m/s],Depth [m]
+125,Mean pulse velocity [m/s],Rock type
+126,Mean pulse velocity [m/s],Dissolution degree
+127,Mean pulse velocity [m/s],Mean hardness [HLD]
+128,Mean pulse velocity [m/s],Mean pulse velocity [m/s]
+129,Mean pulse velocity [m/s],VP [m/s]
+130,Mean pulse velocity [m/s],Vs [m/s]
+131,Mean pulse velocity [m/s],E-Module [GPa]
+132,Mean pulse velocity [m/s],Poisson ratio
+133,Mean pulse velocity [m/s],Porosity [%]
+134,Mean pulse velocity [m/s],Density [g/cm3]
+135,Mean pulse velocity [m/s],Permeability [kkl md]
+136,Mean pulse velocity [m/s],Mg(CO3) [%]
+137,Mean pulse velocity [m/s],Ca(CO3) [%]
+138,Mean pulse velocity [m/s],Mn(CO3) [%]
+139,Mean pulse velocity [m/s],Fe(CO3) [%]
+140,Mean pulse velocity [m/s],Mg [%]
+141,Mean pulse velocity [m/s],Ca [%]
+142,Mean pulse velocity [m/s],Mg_Ca
+143,Mean pulse velocity [m/s],Ca _ Mg
+144,Mean pulse velocity [m/s],Sr [%]
+145,Mean pulse velocity [m/s],Dolomite total [%]
+146,Mean pulse velocity [m/s],Calcite total [%]
+147,Mean pulse velocity [m/s],Foraminifera [%]
+148,Mean pulse velocity [m/s],Goethite [%]
+149,Mean pulse velocity [m/s],Intergranular porosity [%]
+150,Mean pulse velocity [m/s],Intragranular porosity [%]
+151,Mean pulse velocity [m/s],Fracture Porosity [%]
+152,Mean pulse velocity [m/s],Secondary breakout porosity [%]
+153,Mean pulse velocity [m/s],Dol tot _ Cal tot
+154,Mean pulse velocity [m/s],Cal tot _ Dol tot
+155,VP [m/s],Depth [m]
+156,VP [m/s],Rock type
+157,VP [m/s],Dissolution degree
+158,VP [m/s],Mean hardness [HLD]
+159,VP [m/s],Mean pulse velocity [m/s]
+160,VP [m/s],VP [m/s]
+161,VP [m/s],Vs [m/s]
+162,VP [m/s],E-Module [GPa]
+163,VP [m/s],Poisson ratio
+164,VP [m/s],Porosity [%]
+165,VP [m/s],Density [g/cm3]
+166,VP [m/s],Permeability [kkl md]
+167,VP [m/s],Mg(CO3) [%]
+168,VP [m/s],Ca(CO3) [%]
+169,VP [m/s],Mn(CO3) [%]
+170,VP [m/s],Fe(CO3) [%]
+171,VP [m/s],Mg [%]
+172,VP [m/s],Ca [%]
+173,VP [m/s],Mg_Ca
+174,VP [m/s],Ca _ Mg
+175,VP [m/s],Sr [%]
+176,VP [m/s],Dolomite total [%]
+177,VP [m/s],Calcite total [%]
+178,VP [m/s],Foraminifera [%]
+179,VP [m/s],Goethite [%]
+180,VP [m/s],Intergranular porosity [%]
+181,VP [m/s],Intragranular porosity [%]
+182,VP [m/s],Fracture Porosity [%]
+183,VP [m/s],Secondary breakout porosity [%]
+184,VP [m/s],Dol tot _ Cal tot
+185,VP [m/s],Cal tot _ Dol tot
+186,Vs [m/s],Depth [m]
+187,Vs [m/s],Rock type
+188,Vs [m/s],Dissolution degree
+189,Vs [m/s],Mean hardness [HLD]
+190,Vs [m/s],Mean pulse velocity [m/s]
+191,Vs [m/s],VP [m/s]
+192,Vs [m/s],Vs [m/s]
+193,Vs [m/s],E-Module [GPa]
+194,Vs [m/s],Poisson ratio
+195,Vs [m/s],Porosity [%]
+196,Vs [m/s],Density [g/cm3]
+197,Vs [m/s],Permeability [kkl md]
+198,Vs [m/s],Mg(CO3) [%]
+199,Vs [m/s],Ca(CO3) [%]
+200,Vs [m/s],Mn(CO3) [%]
+201,Vs [m/s],Fe(CO3) [%]
+202,Vs [m/s],Mg [%]
+203,Vs [m/s],Ca [%]
+204,Vs [m/s],Mg_Ca
+205,Vs [m/s],Ca _ Mg
+206,Vs [m/s],Sr [%]
+207,Vs [m/s],Dolomite total [%]
+208,Vs [m/s],Calcite total [%]
+209,Vs [m/s],Foraminifera [%]
+210,Vs [m/s],Goethite [%]
+211,Vs [m/s],Intergranular porosity [%]
+212,Vs [m/s],Intragranular porosity [%]
+213,Vs [m/s],Fracture Porosity [%]
+214,Vs [m/s],Secondary breakout porosity [%]
+215,Vs [m/s],Dol tot _ Cal tot
+216,Vs [m/s],Cal tot _ Dol tot
+217,E-Module [GPa],Depth [m]
+218,E-Module [GPa],Rock type
+219,E-Module [GPa],Dissolution degree
+220,E-Module [GPa],Mean hardness [HLD]
+221,E-Module [GPa],Mean pulse velocity [m/s]
+222,E-Module [GPa],VP [m/s]
+223,E-Module [GPa],Vs [m/s]
+224,E-Module [GPa],E-Module [GPa]
+225,E-Module [GPa],Poisson ratio
+226,E-Module [GPa],Porosity [%]
+227,E-Module [GPa],Density [g/cm3]
+228,E-Module [GPa],Permeability [kkl md]
+229,E-Module [GPa],Mg(CO3) [%]
+230,E-Module [GPa],Ca(CO3) [%]
+231,E-Module [GPa],Mn(CO3) [%]
+232,E-Module [GPa],Fe(CO3) [%]
+233,E-Module [GPa],Mg [%]
+234,E-Module [GPa],Ca [%]
+235,E-Module [GPa],Mg_Ca
+236,E-Module [GPa],Ca _ Mg
+237,E-Module [GPa],Sr [%]
+238,E-Module [GPa],Dolomite total [%]
+239,E-Module [GPa],Calcite total [%]
+240,E-Module [GPa],Foraminifera [%]
+241,E-Module [GPa],Goethite [%]
+242,E-Module [GPa],Intergranular porosity [%]
+243,E-Module [GPa],Intragranular porosity [%]
+244,E-Module [GPa],Fracture Porosity [%]
+245,E-Module [GPa],Secondary breakout porosity [%]
+246,E-Module [GPa],Dol tot _ Cal tot
+247,E-Module [GPa],Cal tot _ Dol tot
+248,Poisson ratio,Depth [m]
+249,Poisson ratio,Rock type
+250,Poisson ratio,Dissolution degree
+251,Poisson ratio,Mean hardness [HLD]
+252,Poisson ratio,Mean pulse velocity [m/s]
+253,Poisson ratio,VP [m/s]
+254,Poisson ratio,Vs [m/s]
+255,Poisson ratio,E-Module [GPa]
+256,Poisson ratio,Poisson ratio
+257,Poisson ratio,Porosity [%]
+258,Poisson ratio,Density [g/cm3]
+259,Poisson ratio,Permeability [kkl md]
+260,Poisson ratio,Mg(CO3) [%]
+261,Poisson ratio,Ca(CO3) [%]
+262,Poisson ratio,Mn(CO3) [%]
+263,Poisson ratio,Fe(CO3) [%]
+264,Poisson ratio,Mg [%]
+265,Poisson ratio,Ca [%]
+266,Poisson ratio,Mg_Ca
+267,Poisson ratio,Ca _ Mg
+268,Poisson ratio,Sr [%]
+269,Poisson ratio,Dolomite total [%]
+270,Poisson ratio,Calcite total [%]
+271,Poisson ratio,Foraminifera [%]
+272,Poisson ratio,Goethite [%]
+273,Poisson ratio,Intergranular porosity [%]
+274,Poisson ratio,Intragranular porosity [%]
+275,Poisson ratio,Fracture Porosity [%]
+276,Poisson ratio,Secondary breakout porosity [%]
+277,Poisson ratio,Dol tot _ Cal tot
+278,Poisson ratio,Cal tot _ Dol tot
+279,Porosity [%],Depth [m]
+280,Porosity [%],Rock type
+281,Porosity [%],Dissolution degree
+282,Porosity [%],Mean hardness [HLD]
+283,Porosity [%],Mean pulse velocity [m/s]
+284,Porosity [%],VP [m/s]
+285,Porosity [%],Vs [m/s]
+286,Porosity [%],E-Module [GPa]
+287,Porosity [%],Poisson ratio
+288,Porosity [%],Porosity [%]
+289,Porosity [%],Density [g/cm3]
+290,Porosity [%],Permeability [kkl md]
+291,Porosity [%],Mg(CO3) [%]
+292,Porosity [%],Ca(CO3) [%]
+293,Porosity [%],Mn(CO3) [%]
+294,Porosity [%],Fe(CO3) [%]
+295,Porosity [%],Mg [%]
+296,Porosity [%],Ca [%]
+297,Porosity [%],Mg_Ca
+298,Porosity [%],Ca _ Mg
+299,Porosity [%],Sr [%]
+300,Porosity [%],Dolomite total [%]
+301,Porosity [%],Calcite total [%]
+302,Porosity [%],Foraminifera [%]
+303,Porosity [%],Goethite [%]
+304,Porosity [%],Intergranular porosity [%]
+305,Porosity [%],Intragranular porosity [%]
+306,Porosity [%],Fracture Porosity [%]
+307,Porosity [%],Secondary breakout porosity [%]
+308,Porosity [%],Dol tot _ Cal tot
+309,Porosity [%],Cal tot _ Dol tot
+310,Density [g/cm3],Depth [m]
+311,Density [g/cm3],Rock type
+312,Density [g/cm3],Dissolution degree
+313,Density [g/cm3],Mean hardness [HLD]
+314,Density [g/cm3],Mean pulse velocity [m/s]
+315,Density [g/cm3],VP [m/s]
+316,Density [g/cm3],Vs [m/s]
+317,Density [g/cm3],E-Module [GPa]
+318,Density [g/cm3],Poisson ratio
+319,Density [g/cm3],Porosity [%]
+320,Density [g/cm3],Density [g/cm3]
+321,Density [g/cm3],Permeability [kkl md]
+322,Density [g/cm3],Mg(CO3) [%]
+323,Density [g/cm3],Ca(CO3) [%]
+324,Density [g/cm3],Mn(CO3) [%]
+325,Density [g/cm3],Fe(CO3) [%]
+326,Density [g/cm3],Mg [%]
+327,Density [g/cm3],Ca [%]
+328,Density [g/cm3],Mg_Ca
+329,Density [g/cm3],Ca _ Mg
+330,Density [g/cm3],Sr [%]
+331,Density [g/cm3],Dolomite total [%]
+332,Density [g/cm3],Calcite total [%]
+333,Density [g/cm3],Foraminifera [%]
+334,Density [g/cm3],Goethite [%]
+335,Density [g/cm3],Intergranular porosity [%]
+336,Density [g/cm3],Intragranular porosity [%]
+337,Density [g/cm3],Fracture Porosity [%]
+338,Density [g/cm3],Secondary breakout porosity [%]
+339,Density [g/cm3],Dol tot _ Cal tot
+340,Density [g/cm3],Cal tot _ Dol tot
+341,Permeability [kkl md],Depth [m]
+342,Permeability [kkl md],Rock type
+343,Permeability [kkl md],Dissolution degree
+344,Permeability [kkl md],Mean hardness [HLD]
+345,Permeability [kkl md],Mean pulse velocity [m/s]
+346,Permeability [kkl md],VP [m/s]
+347,Permeability [kkl md],Vs [m/s]
+348,Permeability [kkl md],E-Module [GPa]
+349,Permeability [kkl md],Poisson ratio
+350,Permeability [kkl md],Porosity [%]
+351,Permeability [kkl md],Density [g/cm3]
+352,Permeability [kkl md],Permeability [kkl md]
+353,Permeability [kkl md],Mg(CO3) [%]
+354,Permeability [kkl md],Ca(CO3) [%]
+355,Permeability [kkl md],Mn(CO3) [%]
+356,Permeability [kkl md],Fe(CO3) [%]
+357,Permeability [kkl md],Mg [%]
+358,Permeability [kkl md],Ca [%]
+359,Permeability [kkl md],Mg_Ca
+360,Permeability [kkl md],Ca _ Mg
+361,Permeability [kkl md],Sr [%]
+362,Permeability [kkl md],Dolomite total [%]
+363,Permeability [kkl md],Calcite total [%]
+364,Permeability [kkl md],Foraminifera [%]
+365,Permeability [kkl md],Goethite [%]
+366,Permeability [kkl md],Intergranular porosity [%]
+367,Permeability [kkl md],Intragranular porosity [%]
+368,Permeability [kkl md],Fracture Porosity [%]
+369,Permeability [kkl md],Secondary breakout porosity [%]
+370,Permeability [kkl md],Dol tot _ Cal tot
+371,Permeability [kkl md],Cal tot _ Dol tot
+372,Mg(CO3) [%],Depth [m]
+373,Mg(CO3) [%],Rock type
+374,Mg(CO3) [%],Dissolution degree
+375,Mg(CO3) [%],Mean hardness [HLD]
+376,Mg(CO3) [%],Mean pulse velocity [m/s]
+377,Mg(CO3) [%],VP [m/s]
+378,Mg(CO3) [%],Vs [m/s]
+379,Mg(CO3) [%],E-Module [GPa]
+380,Mg(CO3) [%],Poisson ratio
+381,Mg(CO3) [%],Porosity [%]
+382,Mg(CO3) [%],Density [g/cm3]
+383,Mg(CO3) [%],Permeability [kkl md]
+384,Mg(CO3) [%],Mg(CO3) [%]
+385,Mg(CO3) [%],Ca(CO3) [%]
+386,Mg(CO3) [%],Mn(CO3) [%]
+387,Mg(CO3) [%],Fe(CO3) [%]
+388,Mg(CO3) [%],Mg [%]
+389,Mg(CO3) [%],Ca [%]
+390,Mg(CO3) [%],Mg_Ca
+391,Mg(CO3) [%],Ca _ Mg
+392,Mg(CO3) [%],Sr [%]
+393,Mg(CO3) [%],Dolomite total [%]
+394,Mg(CO3) [%],Calcite total [%]
+395,Mg(CO3) [%],Foraminifera [%]
+396,Mg(CO3) [%],Goethite [%]
+397,Mg(CO3) [%],Intergranular porosity [%]
+398,Mg(CO3) [%],Intragranular porosity [%]
+399,Mg(CO3) [%],Fracture Porosity [%]
+400,Mg(CO3) [%],Secondary breakout porosity [%]
+401,Mg(CO3) [%],Dol tot _ Cal tot
+402,Mg(CO3) [%],Cal tot _ Dol tot
+403,Ca(CO3) [%],Depth [m]
+404,Ca(CO3) [%],Rock type
+405,Ca(CO3) [%],Dissolution degree
+406,Ca(CO3) [%],Mean hardness [HLD]
+407,Ca(CO3) [%],Mean pulse velocity [m/s]
+408,Ca(CO3) [%],VP [m/s]
+409,Ca(CO3) [%],Vs [m/s]
+410,Ca(CO3) [%],E-Module [GPa]
+411,Ca(CO3) [%],Poisson ratio
+412,Ca(CO3) [%],Porosity [%]
+413,Ca(CO3) [%],Density [g/cm3]
+414,Ca(CO3) [%],Permeability [kkl md]
+415,Ca(CO3) [%],Mg(CO3) [%]
+416,Ca(CO3) [%],Ca(CO3) [%]
+417,Ca(CO3) [%],Mn(CO3) [%]
+418,Ca(CO3) [%],Fe(CO3) [%]
+419,Ca(CO3) [%],Mg [%]
+420,Ca(CO3) [%],Ca [%]
+421,Ca(CO3) [%],Mg_Ca
+422,Ca(CO3) [%],Ca _ Mg
+423,Ca(CO3) [%],Sr [%]
+424,Ca(CO3) [%],Dolomite total [%]
+425,Ca(CO3) [%],Calcite total [%]
+426,Ca(CO3) [%],Foraminifera [%]
+427,Ca(CO3) [%],Goethite [%]
+428,Ca(CO3) [%],Intergranular porosity [%]
+429,Ca(CO3) [%],Intragranular porosity [%]
+430,Ca(CO3) [%],Fracture Porosity [%]
+431,Ca(CO3) [%],Secondary breakout porosity [%]
+432,Ca(CO3) [%],Dol tot _ Cal tot
+433,Ca(CO3) [%],Cal tot _ Dol tot
+434,Mn(CO3) [%],Depth [m]
+435,Mn(CO3) [%],Rock type
+436,Mn(CO3) [%],Dissolution degree
+437,Mn(CO3) [%],Mean hardness [HLD]
+438,Mn(CO3) [%],Mean pulse velocity [m/s]
+439,Mn(CO3) [%],VP [m/s]
+440,Mn(CO3) [%],Vs [m/s]
+441,Mn(CO3) [%],E-Module [GPa]
+442,Mn(CO3) [%],Poisson ratio
+443,Mn(CO3) [%],Porosity [%]
+444,Mn(CO3) [%],Density [g/cm3]
+445,Mn(CO3) [%],Permeability [kkl md]
+446,Mn(CO3) [%],Mg(CO3) [%]
+447,Mn(CO3) [%],Ca(CO3) [%]
+448,Mn(CO3) [%],Mn(CO3) [%]
+449,Mn(CO3) [%],Fe(CO3) [%]
+450,Mn(CO3) [%],Mg [%]
+451,Mn(CO3) [%],Ca [%]
+452,Mn(CO3) [%],Mg_Ca
+453,Mn(CO3) [%],Ca _ Mg
+454,Mn(CO3) [%],Sr [%]
+455,Mn(CO3) [%],Dolomite total [%]
+456,Mn(CO3) [%],Calcite total [%]
+457,Mn(CO3) [%],Foraminifera [%]
+458,Mn(CO3) [%],Goethite [%]
+459,Mn(CO3) [%],Intergranular porosity [%]
+460,Mn(CO3) [%],Intragranular porosity [%]
+461,Mn(CO3) [%],Fracture Porosity [%]
+462,Mn(CO3) [%],Secondary breakout porosity [%]
+463,Mn(CO3) [%],Dol tot _ Cal tot
+464,Mn(CO3) [%],Cal tot _ Dol tot
+465,Fe(CO3) [%],Depth [m]
+466,Fe(CO3) [%],Rock type
+467,Fe(CO3) [%],Dissolution degree
+468,Fe(CO3) [%],Mean hardness [HLD]
+469,Fe(CO3) [%],Mean pulse velocity [m/s]
+470,Fe(CO3) [%],VP [m/s]
+471,Fe(CO3) [%],Vs [m/s]
+472,Fe(CO3) [%],E-Module [GPa]
+473,Fe(CO3) [%],Poisson ratio
+474,Fe(CO3) [%],Porosity [%]
+475,Fe(CO3) [%],Density [g/cm3]
+476,Fe(CO3) [%],Permeability [kkl md]
+477,Fe(CO3) [%],Mg(CO3) [%]
+478,Fe(CO3) [%],Ca(CO3) [%]
+479,Fe(CO3) [%],Mn(CO3) [%]
+480,Fe(CO3) [%],Fe(CO3) [%]
+481,Fe(CO3) [%],Mg [%]
+482,Fe(CO3) [%],Ca [%]
+483,Fe(CO3) [%],Mg_Ca
+484,Fe(CO3) [%],Ca _ Mg
+485,Fe(CO3) [%],Sr [%]
+486,Fe(CO3) [%],Dolomite total [%]
+487,Fe(CO3) [%],Calcite total [%]
+488,Fe(CO3) [%],Foraminifera [%]
+489,Fe(CO3) [%],Goethite [%]
+490,Fe(CO3) [%],Intergranular porosity [%]
+491,Fe(CO3) [%],Intragranular porosity [%]
+492,Fe(CO3) [%],Fracture Porosity [%]
+493,Fe(CO3) [%],Secondary breakout porosity [%]
+494,Fe(CO3) [%],Dol tot _ Cal tot
+495,Fe(CO3) [%],Cal tot _ Dol tot
+496,Mg [%],Depth [m]
+497,Mg [%],Rock type
+498,Mg [%],Dissolution degree
+499,Mg [%],Mean hardness [HLD]
+500,Mg [%],Mean pulse velocity [m/s]
+501,Mg [%],VP [m/s]
+502,Mg [%],Vs [m/s]
+503,Mg [%],E-Module [GPa]
+504,Mg [%],Poisson ratio
+505,Mg [%],Porosity [%]
+506,Mg [%],Density [g/cm3]
+507,Mg [%],Permeability [kkl md]
+508,Mg [%],Mg(CO3) [%]
+509,Mg [%],Ca(CO3) [%]
+510,Mg [%],Mn(CO3) [%]
+511,Mg [%],Fe(CO3) [%]
+512,Mg [%],Mg [%]
+513,Mg [%],Ca [%]
+514,Mg [%],Mg_Ca
+515,Mg [%],Ca _ Mg
+516,Mg [%],Sr [%]
+517,Mg [%],Dolomite total [%]
+518,Mg [%],Calcite total [%]
+519,Mg [%],Foraminifera [%]
+520,Mg [%],Goethite [%]
+521,Mg [%],Intergranular porosity [%]
+522,Mg [%],Intragranular porosity [%]
+523,Mg [%],Fracture Porosity [%]
+524,Mg [%],Secondary breakout porosity [%]
+525,Mg [%],Dol tot _ Cal tot
+526,Mg [%],Cal tot _ Dol tot
+527,Ca [%],Depth [m]
+528,Ca [%],Rock type
+529,Ca [%],Dissolution degree
+530,Ca [%],Mean hardness [HLD]
+531,Ca [%],Mean pulse velocity [m/s]
+532,Ca [%],VP [m/s]
+533,Ca [%],Vs [m/s]
+534,Ca [%],E-Module [GPa]
+535,Ca [%],Poisson ratio
+536,Ca [%],Porosity [%]
+537,Ca [%],Density [g/cm3]
+538,Ca [%],Permeability [kkl md]
+539,Ca [%],Mg(CO3) [%]
+540,Ca [%],Ca(CO3) [%]
+541,Ca [%],Mn(CO3) [%]
+542,Ca [%],Fe(CO3) [%]
+543,Ca [%],Mg [%]
+544,Ca [%],Ca [%]
+545,Ca [%],Mg_Ca
+546,Ca [%],Ca _ Mg
+547,Ca [%],Sr [%]
+548,Ca [%],Dolomite total [%]
+549,Ca [%],Calcite total [%]
+550,Ca [%],Foraminifera [%]
+551,Ca [%],Goethite [%]
+552,Ca [%],Intergranular porosity [%]
+553,Ca [%],Intragranular porosity [%]
+554,Ca [%],Fracture Porosity [%]
+555,Ca [%],Secondary breakout porosity [%]
+556,Ca [%],Dol tot _ Cal tot
+557,Ca [%],Cal tot _ Dol tot
+558,Mg_Ca,Depth [m]
+559,Mg_Ca,Rock type
+560,Mg_Ca,Dissolution degree
+561,Mg_Ca,Mean hardness [HLD]
+562,Mg_Ca,Mean pulse velocity [m/s]
+563,Mg_Ca,VP [m/s]
+564,Mg_Ca,Vs [m/s]
+565,Mg_Ca,E-Module [GPa]
+566,Mg_Ca,Poisson ratio
+567,Mg_Ca,Porosity [%]
+568,Mg_Ca,Density [g/cm3]
+569,Mg_Ca,Permeability [kkl md]
+570,Mg_Ca,Mg(CO3) [%]
+571,Mg_Ca,Ca(CO3) [%]
+572,Mg_Ca,Mn(CO3) [%]
+573,Mg_Ca,Fe(CO3) [%]
+574,Mg_Ca,Mg [%]
+575,Mg_Ca,Ca [%]
+576,Mg_Ca,Mg_Ca
+577,Mg_Ca,Ca _ Mg
+578,Mg_Ca,Sr [%]
+579,Mg_Ca,Dolomite total [%]
+580,Mg_Ca,Calcite total [%]
+581,Mg_Ca,Foraminifera [%]
+582,Mg_Ca,Goethite [%]
+583,Mg_Ca,Intergranular porosity [%]
+584,Mg_Ca,Intragranular porosity [%]
+585,Mg_Ca,Fracture Porosity [%]
+586,Mg_Ca,Secondary breakout porosity [%]
+587,Mg_Ca,Dol tot _ Cal tot
+588,Mg_Ca,Cal tot _ Dol tot
+589,Ca _ Mg,Depth [m]
+590,Ca _ Mg,Rock type
+591,Ca _ Mg,Dissolution degree
+592,Ca _ Mg,Mean hardness [HLD]
+593,Ca _ Mg,Mean pulse velocity [m/s]
+594,Ca _ Mg,VP [m/s]
+595,Ca _ Mg,Vs [m/s]
+596,Ca _ Mg,E-Module [GPa]
+597,Ca _ Mg,Poisson ratio
+598,Ca _ Mg,Porosity [%]
+599,Ca _ Mg,Density [g/cm3]
+600,Ca _ Mg,Permeability [kkl md]
+601,Ca _ Mg,Mg(CO3) [%]
+602,Ca _ Mg,Ca(CO3) [%]
+603,Ca _ Mg,Mn(CO3) [%]
+604,Ca _ Mg,Fe(CO3) [%]
+605,Ca _ Mg,Mg [%]
+606,Ca _ Mg,Ca [%]
+607,Ca _ Mg,Mg_Ca
+608,Ca _ Mg,Ca _ Mg
+609,Ca _ Mg,Sr [%]
+610,Ca _ Mg,Dolomite total [%]
+611,Ca _ Mg,Calcite total [%]
+612,Ca _ Mg,Foraminifera [%]
+613,Ca _ Mg,Goethite [%]
+614,Ca _ Mg,Intergranular porosity [%]
+615,Ca _ Mg,Intragranular porosity [%]
+616,Ca _ Mg,Fracture Porosity [%]
+617,Ca _ Mg,Secondary breakout porosity [%]
+618,Ca _ Mg,Dol tot _ Cal tot
+619,Ca _ Mg,Cal tot _ Dol tot
+620,Sr [%],Depth [m]
+621,Sr [%],Rock type
+622,Sr [%],Dissolution degree
+623,Sr [%],Mean hardness [HLD]
+624,Sr [%],Mean pulse velocity [m/s]
+625,Sr [%],VP [m/s]
+626,Sr [%],Vs [m/s]
+627,Sr [%],E-Module [GPa]
+628,Sr [%],Poisson ratio
+629,Sr [%],Porosity [%]
+630,Sr [%],Density [g/cm3]
+631,Sr [%],Permeability [kkl md]
+632,Sr [%],Mg(CO3) [%]
+633,Sr [%],Ca(CO3) [%]
+634,Sr [%],Mn(CO3) [%]
+635,Sr [%],Fe(CO3) [%]
+636,Sr [%],Mg [%]
+637,Sr [%],Ca [%]
+638,Sr [%],Mg_Ca
+639,Sr [%],Ca _ Mg
+640,Sr [%],Sr [%]
+641,Sr [%],Dolomite total [%]
+642,Sr [%],Calcite total [%]
+643,Sr [%],Foraminifera [%]
+644,Sr [%],Goethite [%]
+645,Sr [%],Intergranular porosity [%]
+646,Sr [%],Intragranular porosity [%]
+647,Sr [%],Fracture Porosity [%]
+648,Sr [%],Secondary breakout porosity [%]
+649,Sr [%],Dol tot _ Cal tot
+650,Sr [%],Cal tot _ Dol tot
+651,Dolomite total [%],Depth [m]
+652,Dolomite total [%],Rock type
+653,Dolomite total [%],Dissolution degree
+654,Dolomite total [%],Mean hardness [HLD]
+655,Dolomite total [%],Mean pulse velocity [m/s]
+656,Dolomite total [%],VP [m/s]
+657,Dolomite total [%],Vs [m/s]
+658,Dolomite total [%],E-Module [GPa]
+659,Dolomite total [%],Poisson ratio
+660,Dolomite total [%],Porosity [%]
+661,Dolomite total [%],Density [g/cm3]
+662,Dolomite total [%],Permeability [kkl md]
+663,Dolomite total [%],Mg(CO3) [%]
+664,Dolomite total [%],Ca(CO3) [%]
+665,Dolomite total [%],Mn(CO3) [%]
+666,Dolomite total [%],Fe(CO3) [%]
+667,Dolomite total [%],Mg [%]
+668,Dolomite total [%],Ca [%]
+669,Dolomite total [%],Mg_Ca
+670,Dolomite total [%],Ca _ Mg
+671,Dolomite total [%],Sr [%]
+672,Dolomite total [%],Dolomite total [%]
+673,Dolomite total [%],Calcite total [%]
+674,Dolomite total [%],Foraminifera [%]
+675,Dolomite total [%],Goethite [%]
+676,Dolomite total [%],Intergranular porosity [%]
+677,Dolomite total [%],Intragranular porosity [%]
+678,Dolomite total [%],Fracture Porosity [%]
+679,Dolomite total [%],Secondary breakout porosity [%]
+680,Dolomite total [%],Dol tot _ Cal tot
+681,Dolomite total [%],Cal tot _ Dol tot
+682,Calcite total [%],Depth [m]
+683,Calcite total [%],Rock type
+684,Calcite total [%],Dissolution degree
+685,Calcite total [%],Mean hardness [HLD]
+686,Calcite total [%],Mean pulse velocity [m/s]
+687,Calcite total [%],VP [m/s]
+688,Calcite total [%],Vs [m/s]
+689,Calcite total [%],E-Module [GPa]
+690,Calcite total [%],Poisson ratio
+691,Calcite total [%],Porosity [%]
+692,Calcite total [%],Density [g/cm3]
+693,Calcite total [%],Permeability [kkl md]
+694,Calcite total [%],Mg(CO3) [%]
+695,Calcite total [%],Ca(CO3) [%]
+696,Calcite total [%],Mn(CO3) [%]
+697,Calcite total [%],Fe(CO3) [%]
+698,Calcite total [%],Mg [%]
+699,Calcite total [%],Ca [%]
+700,Calcite total [%],Mg_Ca
+701,Calcite total [%],Ca _ Mg
+702,Calcite total [%],Sr [%]
+703,Calcite total [%],Dolomite total [%]
+704,Calcite total [%],Calcite total [%]
+705,Calcite total [%],Foraminifera [%]
+706,Calcite total [%],Goethite [%]
+707,Calcite total [%],Intergranular porosity [%]
+708,Calcite total [%],Intragranular porosity [%]
+709,Calcite total [%],Fracture Porosity [%]
+710,Calcite total [%],Secondary breakout porosity [%]
+711,Calcite total [%],Dol tot _ Cal tot
+712,Calcite total [%],Cal tot _ Dol tot
+713,Foraminifera [%],Depth [m]
+714,Foraminifera [%],Rock type
+715,Foraminifera [%],Dissolution degree
+716,Foraminifera [%],Mean hardness [HLD]
+717,Foraminifera [%],Mean pulse velocity [m/s]
+718,Foraminifera [%],VP [m/s]
+719,Foraminifera [%],Vs [m/s]
+720,Foraminifera [%],E-Module [GPa]
+721,Foraminifera [%],Poisson ratio
+722,Foraminifera [%],Porosity [%]
+723,Foraminifera [%],Density [g/cm3]
+724,Foraminifera [%],Permeability [kkl md]
+725,Foraminifera [%],Mg(CO3) [%]
+726,Foraminifera [%],Ca(CO3) [%]
+727,Foraminifera [%],Mn(CO3) [%]
+728,Foraminifera [%],Fe(CO3) [%]
+729,Foraminifera [%],Mg [%]
+730,Foraminifera [%],Ca [%]
+731,Foraminifera [%],Mg_Ca
+732,Foraminifera [%],Ca _ Mg
+733,Foraminifera [%],Sr [%]
+734,Foraminifera [%],Dolomite total [%]
+735,Foraminifera [%],Calcite total [%]
+736,Foraminifera [%],Foraminifera [%]
+737,Foraminifera [%],Goethite [%]
+738,Foraminifera [%],Intergranular porosity [%]
+739,Foraminifera [%],Intragranular porosity [%]
+740,Foraminifera [%],Fracture Porosity [%]
+741,Foraminifera [%],Secondary breakout porosity [%]
+742,Foraminifera [%],Dol tot _ Cal tot
+743,Foraminifera [%],Cal tot _ Dol tot
+744,Goethite [%],Depth [m]
+745,Goethite [%],Rock type
+746,Goethite [%],Dissolution degree
+747,Goethite [%],Mean hardness [HLD]
+748,Goethite [%],Mean pulse velocity [m/s]
+749,Goethite [%],VP [m/s]
+750,Goethite [%],Vs [m/s]
+751,Goethite [%],E-Module [GPa]
+752,Goethite [%],Poisson ratio
+753,Goethite [%],Porosity [%]
+754,Goethite [%],Density [g/cm3]
+755,Goethite [%],Permeability [kkl md]
+756,Goethite [%],Mg(CO3) [%]
+757,Goethite [%],Ca(CO3) [%]
+758,Goethite [%],Mn(CO3) [%]
+759,Goethite [%],Fe(CO3) [%]
+760,Goethite [%],Mg [%]
+761,Goethite [%],Ca [%]
+762,Goethite [%],Mg_Ca
+763,Goethite [%],Ca _ Mg
+764,Goethite [%],Sr [%]
+765,Goethite [%],Dolomite total [%]
+766,Goethite [%],Calcite total [%]
+767,Goethite [%],Foraminifera [%]
+768,Goethite [%],Goethite [%]
+769,Goethite [%],Intergranular porosity [%]
+770,Goethite [%],Intragranular porosity [%]
+771,Goethite [%],Fracture Porosity [%]
+772,Goethite [%],Secondary breakout porosity [%]
+773,Goethite [%],Dol tot _ Cal tot
+774,Goethite [%],Cal tot _ Dol tot
+775,Intergranular porosity [%],Depth [m]
+776,Intergranular porosity [%],Rock type
+777,Intergranular porosity [%],Dissolution degree
+778,Intergranular porosity [%],Mean hardness [HLD]
+779,Intergranular porosity [%],Mean pulse velocity [m/s]
+780,Intergranular porosity [%],VP [m/s]
+781,Intergranular porosity [%],Vs [m/s]
+782,Intergranular porosity [%],E-Module [GPa]
+783,Intergranular porosity [%],Poisson ratio
+784,Intergranular porosity [%],Porosity [%]
+785,Intergranular porosity [%],Density [g/cm3]
+786,Intergranular porosity [%],Permeability [kkl md]
+787,Intergranular porosity [%],Mg(CO3) [%]
+788,Intergranular porosity [%],Ca(CO3) [%]
+789,Intergranular porosity [%],Mn(CO3) [%]
+790,Intergranular porosity [%],Fe(CO3) [%]
+791,Intergranular porosity [%],Mg [%]
+792,Intergranular porosity [%],Ca [%]
+793,Intergranular porosity [%],Mg_Ca
+794,Intergranular porosity [%],Ca _ Mg
+795,Intergranular porosity [%],Sr [%]
+796,Intergranular porosity [%],Dolomite total [%]
+797,Intergranular porosity [%],Calcite total [%]
+798,Intergranular porosity [%],Foraminifera [%]
+799,Intergranular porosity [%],Goethite [%]
+800,Intergranular porosity [%],Intergranular porosity [%]
+801,Intergranular porosity [%],Intragranular porosity [%]
+802,Intergranular porosity [%],Fracture Porosity [%]
+803,Intergranular porosity [%],Secondary breakout porosity [%]
+804,Intergranular porosity [%],Dol tot _ Cal tot
+805,Intergranular porosity [%],Cal tot _ Dol tot
+806,Intragranular porosity [%],Depth [m]
+807,Intragranular porosity [%],Rock type
+808,Intragranular porosity [%],Dissolution degree
+809,Intragranular porosity [%],Mean hardness [HLD]
+810,Intragranular porosity [%],Mean pulse velocity [m/s]
+811,Intragranular porosity [%],VP [m/s]
+812,Intragranular porosity [%],Vs [m/s]
+813,Intragranular porosity [%],E-Module [GPa]
+814,Intragranular porosity [%],Poisson ratio
+815,Intragranular porosity [%],Porosity [%]
+816,Intragranular porosity [%],Density [g/cm3]
+817,Intragranular porosity [%],Permeability [kkl md]
+818,Intragranular porosity [%],Mg(CO3) [%]
+819,Intragranular porosity [%],Ca(CO3) [%]
+820,Intragranular porosity [%],Mn(CO3) [%]
+821,Intragranular porosity [%],Fe(CO3) [%]
+822,Intragranular porosity [%],Mg [%]
+823,Intragranular porosity [%],Ca [%]
+824,Intragranular porosity [%],Mg_Ca
+825,Intragranular porosity [%],Ca _ Mg
+826,Intragranular porosity [%],Sr [%]
+827,Intragranular porosity [%],Dolomite total [%]
+828,Intragranular porosity [%],Calcite total [%]
+829,Intragranular porosity [%],Foraminifera [%]
+830,Intragranular porosity [%],Goethite [%]
+831,Intragranular porosity [%],Intergranular porosity [%]
+832,Intragranular porosity [%],Intragranular porosity [%]
+833,Intragranular porosity [%],Fracture Porosity [%]
+834,Intragranular porosity [%],Secondary breakout porosity [%]
+835,Intragranular porosity [%],Dol tot _ Cal tot
+836,Intragranular porosity [%],Cal tot _ Dol tot
+837,Fracture Porosity [%],Depth [m]
+838,Fracture Porosity [%],Rock type
+839,Fracture Porosity [%],Dissolution degree
+840,Fracture Porosity [%],Mean hardness [HLD]
+841,Fracture Porosity [%],Mean pulse velocity [m/s]
+842,Fracture Porosity [%],VP [m/s]
+843,Fracture Porosity [%],Vs [m/s]
+844,Fracture Porosity [%],E-Module [GPa]
+845,Fracture Porosity [%],Poisson ratio
+846,Fracture Porosity [%],Porosity [%]
+847,Fracture Porosity [%],Density [g/cm3]
+848,Fracture Porosity [%],Permeability [kkl md]
+849,Fracture Porosity [%],Mg(CO3) [%]
+850,Fracture Porosity [%],Ca(CO3) [%]
+851,Fracture Porosity [%],Mn(CO3) [%]
+852,Fracture Porosity [%],Fe(CO3) [%]
+853,Fracture Porosity [%],Mg [%]
+854,Fracture Porosity [%],Ca [%]
+855,Fracture Porosity [%],Mg_Ca
+856,Fracture Porosity [%],Ca _ Mg
+857,Fracture Porosity [%],Sr [%]
+858,Fracture Porosity [%],Dolomite total [%]
+859,Fracture Porosity [%],Calcite total [%]
+860,Fracture Porosity [%],Foraminifera [%]
+861,Fracture Porosity [%],Goethite [%]
+862,Fracture Porosity [%],Intergranular porosity [%]
+863,Fracture Porosity [%],Intragranular porosity [%]
+864,Fracture Porosity [%],Fracture Porosity [%]
+865,Fracture Porosity [%],Secondary breakout porosity [%]
+866,Fracture Porosity [%],Dol tot _ Cal tot
+867,Fracture Porosity [%],Cal tot _ Dol tot
+868,Secondary breakout porosity [%],Depth [m]
+869,Secondary breakout porosity [%],Rock type
+870,Secondary breakout porosity [%],Dissolution degree
+871,Secondary breakout porosity [%],Mean hardness [HLD]
+872,Secondary breakout porosity [%],Mean pulse velocity [m/s]
+873,Secondary breakout porosity [%],VP [m/s]
+874,Secondary breakout porosity [%],Vs [m/s]
+875,Secondary breakout porosity [%],E-Module [GPa]
+876,Secondary breakout porosity [%],Poisson ratio
+877,Secondary breakout porosity [%],Porosity [%]
+878,Secondary breakout porosity [%],Density [g/cm3]
+879,Secondary breakout porosity [%],Permeability [kkl md]
+880,Secondary breakout porosity [%],Mg(CO3) [%]
+881,Secondary breakout porosity [%],Ca(CO3) [%]
+882,Secondary breakout porosity [%],Mn(CO3) [%]
+883,Secondary breakout porosity [%],Fe(CO3) [%]
+884,Secondary breakout porosity [%],Mg [%]
+885,Secondary breakout porosity [%],Ca [%]
+886,Secondary breakout porosity [%],Mg_Ca
+887,Secondary breakout porosity [%],Ca _ Mg
+888,Secondary breakout porosity [%],Sr [%]
+889,Secondary breakout porosity [%],Dolomite total [%]
+890,Secondary breakout porosity [%],Calcite total [%]
+891,Secondary breakout porosity [%],Foraminifera [%]
+892,Secondary breakout porosity [%],Goethite [%]
+893,Secondary breakout porosity [%],Intergranular porosity [%]
+894,Secondary breakout porosity [%],Intragranular porosity [%]
+895,Secondary breakout porosity [%],Fracture Porosity [%]
+896,Secondary breakout porosity [%],Secondary breakout porosity [%]
+897,Secondary breakout porosity [%],Dol tot _ Cal tot
+898,Secondary breakout porosity [%],Cal tot _ Dol tot
+899,Dol tot _ Cal tot,Depth [m]
+900,Dol tot _ Cal tot,Rock type
+901,Dol tot _ Cal tot,Dissolution degree
+902,Dol tot _ Cal tot,Mean hardness [HLD]
+903,Dol tot _ Cal tot,Mean pulse velocity [m/s]
+904,Dol tot _ Cal tot,VP [m/s]
+905,Dol tot _ Cal tot,Vs [m/s]
+906,Dol tot _ Cal tot,E-Module [GPa]
+907,Dol tot _ Cal tot,Poisson ratio
+908,Dol tot _ Cal tot,Porosity [%]
+909,Dol tot _ Cal tot,Density [g/cm3]
+910,Dol tot _ Cal tot,Permeability [kkl md]
+911,Dol tot _ Cal tot,Mg(CO3) [%]
+912,Dol tot _ Cal tot,Ca(CO3) [%]
+913,Dol tot _ Cal tot,Mn(CO3) [%]
+914,Dol tot _ Cal tot,Fe(CO3) [%]
+915,Dol tot _ Cal tot,Mg [%]
+916,Dol tot _ Cal tot,Ca [%]
+917,Dol tot _ Cal tot,Mg_Ca
+918,Dol tot _ Cal tot,Ca _ Mg
+919,Dol tot _ Cal tot,Sr [%]
+920,Dol tot _ Cal tot,Dolomite total [%]
+921,Dol tot _ Cal tot,Calcite total [%]
+922,Dol tot _ Cal tot,Foraminifera [%]
+923,Dol tot _ Cal tot,Goethite [%]
+924,Dol tot _ Cal tot,Intergranular porosity [%]
+925,Dol tot _ Cal tot,Intragranular porosity [%]
+926,Dol tot _ Cal tot,Fracture Porosity [%]
+927,Dol tot _ Cal tot,Secondary breakout porosity [%]
+928,Dol tot _ Cal tot,Dol tot _ Cal tot
+929,Dol tot _ Cal tot,Cal tot _ Dol tot
+930,Cal tot _ Dol tot,Depth [m]
+931,Cal tot _ Dol tot,Rock type
+932,Cal tot _ Dol tot,Dissolution degree
+933,Cal tot _ Dol tot,Mean hardness [HLD]
+934,Cal tot _ Dol tot,Mean pulse velocity [m/s]
+935,Cal tot _ Dol tot,VP [m/s]
+936,Cal tot _ Dol tot,Vs [m/s]
+937,Cal tot _ Dol tot,E-Module [GPa]
+938,Cal tot _ Dol tot,Poisson ratio
+939,Cal tot _ Dol tot,Porosity [%]
+940,Cal tot _ Dol tot,Density [g/cm3]
+941,Cal tot _ Dol tot,Permeability [kkl md]
+942,Cal tot _ Dol tot,Mg(CO3) [%]
+943,Cal tot _ Dol tot,Ca(CO3) [%]
+944,Cal tot _ Dol tot,Mn(CO3) [%]
+945,Cal tot _ Dol tot,Fe(CO3) [%]
+946,Cal tot _ Dol tot,Mg [%]
+947,Cal tot _ Dol tot,Ca [%]
+948,Cal tot _ Dol tot,Mg_Ca
+949,Cal tot _ Dol tot,Ca _ Mg
+950,Cal tot _ Dol tot,Sr [%]
+951,Cal tot _ Dol tot,Dolomite total [%]
+952,Cal tot _ Dol tot,Calcite total [%]
+953,Cal tot _ Dol tot,Foraminifera [%]
+954,Cal tot _ Dol tot,Goethite [%]
+955,Cal tot _ Dol tot,Intergranular porosity [%]
+956,Cal tot _ Dol tot,Intragranular porosity [%]
+957,Cal tot _ Dol tot,Fracture Porosity [%]
+958,Cal tot _ Dol tot,Secondary breakout porosity [%]
+959,Cal tot _ Dol tot,Dol tot _ Cal tot
+960,Cal tot _ Dol tot,Cal tot _ Dol tot
